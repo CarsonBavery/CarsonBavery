@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi there! My name is Carson Bavery! I am a Computer Science 💻 at the University of North Carolina at Charlotte ⛏️! I am graduating in the fall of 2024!
+Hi! My name is Carson Bavery! I have my B.S. in Computer Science 💻 from the University of North Carolina at Charlotte ⛏️! I graduated in the fall of 2024!
 
 ### Interests :
 
